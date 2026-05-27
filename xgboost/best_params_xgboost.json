@@ -1,0 +1,10 @@
+{
+    "optimal_n_lags": 9,
+    "best_xgb_parameters": {
+        "xgb__learning_rate": 0.07,
+        "xgb__max_depth": 2,
+        "xgb__n_estimators": 1500,
+        "xgb__reg_alpha": 0,
+        "xgb__reg_lambda": 10
+    }
+}

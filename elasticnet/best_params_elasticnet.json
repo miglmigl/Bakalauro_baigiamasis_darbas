@@ -1,0 +1,7 @@
+{
+    "optimal_n_lags": 5,
+    "best_enet_parameters": {
+        "enet__alpha": 20.0,
+        "enet__l1_ratio": 0.001
+    }
+}
